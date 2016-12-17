@@ -10,3 +10,9 @@ git status
 git diff
 git add  
 git commit
+
+
+git stage --- 暂存区
+git work --- 工作区
+git branch --- 分支
+git master --- git 自动创建的主分支
