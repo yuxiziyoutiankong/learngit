@@ -28,3 +28,7 @@ D:\learngit>git commit -m "understand how s
 D:\learngit>git status
 On branch master
 nothing to commit, working directory clean
+
+
+built a dev branch,checkout dev
+git checkout -b (built branch) dev = git branch dev,git checkout dev;
